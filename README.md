@@ -9,6 +9,6 @@
 
 
 # 💖WELCOME TO MY WEBPAGE🌈
-https://yuha-park.github.io/react-movieapp/
+https://yuha-park.github.io/react-movie-app/
 
 </div>
